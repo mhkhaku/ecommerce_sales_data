@@ -3,7 +3,7 @@
 ### Data Source: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ## Overview
-This repository contains SQL queries and data analysis for a ecommerce sales dataset (sales_data). The dataset includes information about invoices, products, customers, and sales details. The analysis covers various aspects, such as total sales per country, average unit prices, customer behavior, and more.
+This repository contains SQL queries and data analysis for an ecommerce sales dataset (sales_data). The dataset includes information about invoices, products, customers, and sales details. The analysis covers various aspects, such as total sales per country, average unit prices, customer behavior, and more.
 
 ## Changes Made
 In this update, a column named invoice_date was dropped from the sales_data table to reflect changes in data requirements. Additionally, a NOT NULL constraint was added to the description column to ensure data integrity.
